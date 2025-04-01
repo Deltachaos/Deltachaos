@@ -10,10 +10,10 @@ I'm an experienced backend developer with a passion for **great software archite
 
 ### 🌟 Major Projects & Companies
 
-- **Alliance 90/The Greens** – Built the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=QCM3dp5x3m4&t=1070s).
+- **Alliance 90/The Greens** – Built majority of the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=QCM3dp5x3m4&t=1070s).
 - **Abstimmungsgrün** - Initial creator of [Abstimmungsgrün](https://abstimmung.netzbegruenung.de/), a software to plan and held voting sessions in real time.
-- **Commerzbank** – Designed and implemented a **microservice-based ticket management system** with React.js and Symfony, integrating complex banking workflows.
-- **Lekkerland** – Led the **modernization of a B2B e-commerce platform**, migrating from OXID to a Kubernetes-based microservice architecture.
+- **Commerzbank** – Designed and implemented a **microservice-based ticket management system** with Symfony, integrating complex infrastructure provisioning.
+- **Lekkerland** – Worked on the **modernization of a B2B e-commerce platform**, migrating from OXID to a Kubernetes-based microservice architecture.
 
 ### 🛠️ Small Projects
 
@@ -31,7 +31,7 @@ I'm an experienced backend developer with a passion for **great software archite
 
 ### 🤝 Co-Founder
 
-I'm also a co-founder of **[verdigado](https://github.com/verdigado)**, an web agency focused on **solidarity, sustainability, and innovation** that powers a lot of IT systems for Alliance 90/The Greens. We offer green web hosting, collaboration tools, and custom software development.
+I'm also a co-founder of **[verdigado](https://github.com/verdigado)**, an web agency focused on **solidarity, sustainability, and innovation** that powers a lot of IT systems for Alliance 90/The Greens. Verdigado offers green web hosting, collaboration tools, and custom software development.
 
 ### 💌 Get in Touch
 
