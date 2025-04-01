@@ -10,7 +10,7 @@ I'm an experienced backend developer with a passion for **great software archite
 
 ### 🌟 Major Projects & Companies
 
-- **Alliance 90/The Greens** – Built the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=bPEydFun7Os).
+- **Alliance 90/The Greens** – Built the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=QCM3dp5x3m4&t=1070s).
 - **Commerzbank** – Designed and implemented a **microservice-based ticket management system** with React.js and Symfony, integrating complex banking workflows.
 - **Lekkerland** – Led the **modernization of a B2B e-commerce platform**, migrating from OXID to a Kubernetes-based microservice architecture.
 
