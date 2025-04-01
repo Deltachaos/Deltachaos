@@ -1,16 +1,40 @@
-## Hi there 👋
+### 👋 Hi, I'm Maximilian Ruta aka Deltachaos
 
-<!--
-**Deltachaos/Deltachaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced backend developer with a passion for **great software architecture** and crafting scalable, efficient systems. My expertise spans ERP process development, microservice architectures, and high-performance e-commerce platforms.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Primarily working with **Symfony, PHP, React, Python, and Java**
+- Have worked with **less widely adopted technologies** like Haxe, Pascal, and Lua
+- Architecting and developing cloud-based applications with **Kubernetes, AWS and Cloudflare**
+
+### 🌟 Major Projects & Companies
+
+- **Alliance 90/The Greens** – Built the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=bPEydFun7Os).
+- **Commerzbank** – Designed and implemented a **microservice-based ticket management system** with React.js and Symfony, integrating complex banking workflows.
+- **Lekkerland** – Led the **modernization of a B2B e-commerce platform**, migrating from OXID to a Kubernetes-based microservice architecture.
+
+### 🛠️ Small Projects
+
+- **[blingtron.app](http://www.blingtron.app/)** – A Discord bot for managing World of Warcraft Guilds.
+- **[tretboot](https://github.com/Deltachaos/tretboot)** – A Kubernetes project for GitOps bootstrapping, simplifying Rancher installation in K3s.
+- **[kentledge](https://github.com/Deltachaos/kubernetes-kentledge)** – A KISS solution to create and restore backups of Kubernetes Persistent Volumes.
+- **[miniapi](https://github.com/Deltachaos/miniapi)** – A zero dependencies minimalistic Python framework to support FaaS development.
+- **[chef-lua](https://github.com/XTAIN/chef-lua)** – A Lua-based Chef client for managing OpenWRT routers.
+
+### 🌱 Open Source Contributions
+
+- [Doctrine ORM](https://github.com/doctrine/orm/pulls?q=author%3ADeltachaos+) & [DBAL](https://github.com/doctrine/dbal/pulls?q=author%3ADeltachaos+)
+- [Symfony](https://github.com/symfony/symfony/pulls?q=author%3ADeltachaos+)
+- [Nextcloud Groupfolders][PRs](https://github.com/nextcloud/groupfolders/pulls?q=author%3ADeltachaos+)
+
+### 🤝 Co-Founder
+
+I'm also a co-founder of **[verdigado](https://github.com/verdigado)**, an web agency focused on **solidarity, sustainability, and innovation** that powers a lot of IT systems for Alliance 90/The Greens. We offer green web hosting, collaboration tools, and custom software development.
+
+### 💌 Get in Touch
+
+- 📍 Cologne, Germany
+- ✉️ [mr@deltachaos.de](mailto:mr@deltachaos.de)
+- 🌐 https://www.deltachaos.de/
+
