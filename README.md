@@ -26,7 +26,7 @@ I'm an experienced backend developer with a passion for **great software archite
 
 - [Doctrine ORM](https://github.com/doctrine/orm/pulls?q=author%3ADeltachaos+) & [DBAL](https://github.com/doctrine/dbal/pulls?q=author%3ADeltachaos+)
 - [Symfony](https://github.com/symfony/symfony/pulls?q=author%3ADeltachaos+)
-- [Nextcloud Groupfolders][PRs](https://github.com/nextcloud/groupfolders/pulls?q=author%3ADeltachaos+)
+- [Nextcloud Groupfolders](https://github.com/nextcloud/groupfolders/pulls?q=author%3ADeltachaos+)
 
 ### 🤝 Co-Founder
 
