@@ -20,7 +20,7 @@ I'm an experienced backend developer with a passion for **great software archite
 - **[blingtron.app](http://www.blingtron.app/)** – A Discord bot for managing World of Warcraft Guilds.
 - **[tretboot](https://github.com/Deltachaos/tretboot)** – A Kubernetes project for GitOps bootstrapping, simplifying Rancher installation in K3s.
 - **[kentledge](https://github.com/Deltachaos/kubernetes-kentledge)** – A KISS solution to create and restore backups of Kubernetes Persistent Volumes.
-- **[miniapi](https://github.com/Deltachaos/miniapi)** – A zero dependencies minimalistic Python framework to support FaaS development.
+- **[miniapi](https://github.com/Deltachaos/microapi)** – A zero dependencies minimalistic Python framework to support FaaS development.
 - **[chef-lua](https://github.com/XTAIN/chef-lua)** – A Lua-based Chef client for managing OpenWRT routers.
 
 ### 🌱 Open Source Contributions
