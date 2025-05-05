@@ -4,7 +4,7 @@ I'm an experienced backend developer with a passion for **great software archite
 
 ### 🚀 What I Do
 
-- Primarily working with **Symfony, PHP, React, Python, and Java**
+- Primarily working with **Symfony, PHP, Vue.js, React, Python, and Java**
 - Have worked with **less widely adopted technologies** like Haxe, Pascal, and Lua
 - Architecting and developing cloud-native applications with **Kubernetes, AWS and Cloudflare**
 
