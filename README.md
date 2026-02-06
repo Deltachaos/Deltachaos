@@ -10,7 +10,7 @@ I'm an experienced backend developer with a passion for **great software archite
 
 ### 🌟 Major Projects & Companies
 
-- **ARD** – Working on streaming delivery and backend services for the ARD.
+- **ARD** – Working on video-on-demand and live streaming delivery and backend services for the ARD online platforms.
 - **Alliance 90/The Greens** – Built majority of the digital conference platform used for the first fully digital party conference in Germany during the COVID-19 pandemic. [Watch the tagesschau report](https://www.youtube.com/watch?v=QCM3dp5x3m4&t=1070s).
 - **Abstimmungsgrün** - Initial creator of [Abstimmungsgrün](https://abstimmung.netzbegruenung.de/), a software to plan and held voting sessions in real time.
 - **Commerzbank** – Designed and implemented a **microservice-based ticket management system** with Symfony, integrating complex infrastructure provisioning.
