@@ -19,6 +19,7 @@ I'm an experienced backend developer with a passion for **great software archite
 ### 🛠️ Small Projects
 
 - **[blingtron.app](http://www.blingtron.app/)** – A Discord bot for managing World of Warcraft Guilds.
+- **[deltachess](https://github.com/Deltachaos/deltachess)** – A fully featured chess game as addon for World of Warcraft.
 - **[microapi](https://github.com/Deltachaos/microapi)** – A zero dependencies minimalistic Python framework to support FaaS development.
 - **[tretboot](https://github.com/Deltachaos/tretboot)** – A Kubernetes project for GitOps bootstrapping, simplifying Rancher installation in K3s.
 - **[kentledge](https://github.com/Deltachaos/kubernetes-kentledge)** – A KISS solution to create and restore backups of Kubernetes Persistent Volumes.
